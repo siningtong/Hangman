@@ -10,4 +10,4 @@ You need to guess the right word to save the guy.
 
 ### The man was saved, thank you Sining! You are the best developer!
 
-!["Man Saved"]([)](https://github.com/siningtong/Hangman/blob/master/docs/saved.gif?raw=true)
+!["Man Saved"](https://github.com/siningtong/Hangman/blob/master/docs/saved.gif?raw=true)
